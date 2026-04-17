@@ -1,1 +1,0 @@
-import{aK as e}from"./index-CLrT31Vy.js";function n(t){return e.post({url:"/index/file/upload",data:t})}function u(){return e.get({url:"/index/getPrivacyPolicy"})}function i(){return e.get({url:"/index/lbt"})}export{i as a,u as g,n as u};
